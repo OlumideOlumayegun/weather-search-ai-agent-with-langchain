@@ -1,5 +1,5 @@
-# Weather & Search AI Agent with LangChain
 ![banner](./images/banner.png)
+
 An AI assistant that combines **web search** and **live weather information** using LangChain's ReAct agent. It uses OpenAI to interpret questions, Tavily to search the web, and Weatherstack to retrieve current weather conditions. A simple Streamlit interface lets users ask questions interactively.
 
 ## Features
